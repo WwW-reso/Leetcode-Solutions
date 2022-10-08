@@ -1,8 +1,5 @@
 class Solution {
-    public static void main(String[] args) {
-        System.out.println(isPalindrome(4003));;
-        System.out.println(1%10);
-    }
+
 
     public static boolean isPalindrome(int x) {
         if(x < 0){
